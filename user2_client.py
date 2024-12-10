@@ -2,7 +2,7 @@ import socket
     # connect to mac's port definition
 def start_client():
     print("Starting client...")
-    host = '10.0.0.241'  
+    host = '**.*.*.***'  # Put Macbook's ip
     port = 5075  # Server's port
 
 
