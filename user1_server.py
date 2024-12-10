@@ -2,7 +2,7 @@
 import socket
 
 def server_program():
-    host = '10.0.0.241'  # Mac's IP
+    host = '********'  # Put Mac's IP
     port = 5075  # Port to listen on
 
 # create a socket
