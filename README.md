@@ -83,4 +83,3 @@ Server-Client-Communcation/
 For questions or suggestions, feel free to reach out:
 
 - GitHub: [noahmtubbs](https://github.com/noahmtubbs)
-- Email: [your-email@example.com] *(replace with your actual email if desired)*
